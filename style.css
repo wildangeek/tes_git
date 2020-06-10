@@ -1,0 +1,21 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    width: 80%;
+    margin: auto;
+}
+.h1{
+    text-align: center;
+
+}
+.img{
+    display: inline-block;
+    padding-top: 40px;
+}
+.text{
+    width: 40%;
+    padding-right: 80px;
+    padding-left: 80px;
+    margin-left: 20px;
+    position: absolute;
+    display: inline-block;
+}
